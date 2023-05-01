@@ -1,0 +1,3 @@
+Total time required with a buffer size of 1500: 351 ms
+Total time required with a buffer size of 5200: 141 ms
+Total time required with a buffer size of 750: 635 ms
