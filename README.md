@@ -8,6 +8,6 @@ In the first terminal, run ./server
 In the second terminal, run ./client
 
 # Results
-The file will be transfered using a buffer size designated in bufferSize.txt
+The file will be transfered using a buffer size designated in bufferSize.txt.
 Results will be appended to result.txt which is created if it doesnt exist.
 output.txt is created so we can guarentee the file sent matches the original.
